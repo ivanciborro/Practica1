@@ -1,9 +1,7 @@
 
-
 1er Cambio del documento en la rama A3
 
 1er Cambio realizado en la rama B3
-b3099d7 (He añadido en develop los cambios realizados en la rama B3)
 
-1er Cambio realizado en la rama B3
-B3
+
+
